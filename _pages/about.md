@@ -30,38 +30,26 @@ TODO
 
 # 📝 Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Technical Report</div>
-      <img src='images/longcat.png' alt="sym" width="500">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [LongCat-Flash-Omni Technical Report](https://arxiv.org/pdf/2511.00279)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/longcat.png' alt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+[LongCat-Flash-Omni Technical Report](https://arxiv.org/pdf/2511.00279)
 
-    MeituanLongCatTeam
+MeituanLongCatTeam
 
-    [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=7Z55xewAAAAJ&citation_for_view=7Z55xewAAAAJ:TFP_iSt0sucC) <strong><span class='show_paper_citations' data='7Z55xewAAAAJ:TFP_iSt0sucC'></span></strong>
-    - A state-of-the-art open-source omni-modal model with 560 billion parameters, excelling at real-time audio-visual interaction.
-  </div>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=7Z55xewAAAAJ&citation_for_view=7Z55xewAAAAJ:TFP_iSt0sucC) <strong><span class='show_paper_citations' data='7Z55xewAAAAJ:TFP_iSt0sucC'></span></strong>
+- A state-of-the-art open-source omni-modal model with 560 billion parameters, excelling at real-time audio-visual interaction.
+</div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Technical Report</div>
-      <img src='images/uitron.png' alt="sym" width="500">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [UItron: Foundational GUI Agent with Advanced Perception and Planning](https://arxiv.org/pdf/2508.21767)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/uitron.png' lt="sym" width="500"></div></div>
+<div class='paper-box-text' markdown="1">
+[UItron: Foundational GUI Agent with Advanced Perception and Planning](https://arxiv.org/pdf/2508.21767)
 
-    Zhixiong Zeng, Jing Huang, **Liming Zheng**, Wenkang Han, Yufeng Zhong, Lei Chen, Longrong Yang, Yingjie Chu, Yuzhi He, Lin Ma
+Zhixiong Zeng, Jing Huang, **Liming Zheng**, Wenkang Han, Yufeng Zhong, Lei Chen, Longrong Yang, Yingjie Chu, Yuzhi He, Lin Ma
 
-    [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=7Z55xewAAAAJ&citation_for_view=7Z55xewAAAAJ:hC7cP41nSMkC) <strong><span class='show_paper_citations' data='7Z55xewAAAAJ:hC7cP41nSMkC'></span></strong>
-    - A foundational model for automatic GUI agents, which advances GUI agent development via systematic data engineering, an interactive environment, and a curriculum reinforcement learning framework, achieving superior performance in GUI tasks and interaction with top-tier Chinese mobile APPs.
-  </div>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=7Z55xewAAAAJ&citation_for_view=7Z55xewAAAAJ:hC7cP41nSMkC) <strong><span class='show_paper_citations' data='7Z55xewAAAAJ:hC7cP41nSMkC'></span></strong>
+- A foundational model for automatic GUI agents, which advances GUI agent development via systematic data engineering, an interactive environment, and a curriculum reinforcement learning framework, achieving superior performance in GUI tasks and interaction with top-tier Chinese mobile APPs.
+</div>
 </div>
 
 - [GPDAN: Grasp Pose Domain Adaptation Network for Sim-to-real 6-DoF Object Grasping](https://ieeexplore.ieee.org/abstract/document/10153686), **Liming Zheng**, Wenxuan Ma, Yinghao Cai, Tao Lu, Shuo Wang. **RA-L 2023**
