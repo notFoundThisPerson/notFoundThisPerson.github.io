@@ -17,12 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-TODO
+# 💼 About Me
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
+Graduated from State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences, I have been studying robotics and embodied AI since my school time. With the aim of creating agents that can actually serve people in daily life, my research focuses on enhancing MLLM capabilities in tool use and task completion through SFT, RL, and benchmark construction, particularly in **‌GUI Agents**‌ and **‌Embodied AI**‌. Multiple research publications have been authored in the fields of GUI Agents, VLA models and benchmarks with total <a href='https://scholar.google.com/citations?user=7Z55xewAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on [Google Scholar](https://scholar.google.com/citations?user=7Z55xewAAAAJ&hl=zh-CN). The academic advisor during my Master's program was [Yinghao Cai](https://people.ucas.ac.cn/~yhcai).
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 Our new MLLM **LongCat-Flash-Omni** has been open sourced!
@@ -38,6 +35,7 @@ MeituanLongCatTeam
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=7Z55xewAAAAJ&citation_for_view=7Z55xewAAAAJ:TFP_iSt0sucC) <strong><span class='show_paper_citations' data='7Z55xewAAAAJ:TFP_iSt0sucC'></span></strong>
 - A state-of-the-art open-source omni-modal model with 560 billion parameters, excelling at real-time audio-visual interaction.
+- Adopts a curriculum-inspired progressive training strategy to achieve comprehensive multimodal capabilities while maintaining strong unimodal capability.
 </div>
 </div>
 
