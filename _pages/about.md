@@ -31,7 +31,7 @@ Graduated from State Key Laboratory of Multimodal Artificial Intelligence System
 <div class='paper-box-text' markdown="1">
 [LongCat-Flash-Omni Technical Report](https://arxiv.org/pdf/2511.00279)
 
-MeituanLongCatTeam
+Meituan LongCat Team
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=7Z55xewAAAAJ&citation_for_view=7Z55xewAAAAJ:TFP_iSt0sucC) <strong><span class='show_paper_citations' data='7Z55xewAAAAJ:TFP_iSt0sucC'></span></strong>
 - A state-of-the-art open-source omni-modal model with 560 billion parameters, excelling at real-time audio-visual interaction.
